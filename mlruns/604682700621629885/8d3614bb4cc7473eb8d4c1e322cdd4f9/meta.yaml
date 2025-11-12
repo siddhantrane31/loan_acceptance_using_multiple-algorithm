@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/ML_AI/loan/loan_acceptance_using_multiple-algorithm/mlruns/604682700621629885/8d3614bb4cc7473eb8d4c1e322cdd4f9/artifacts
+end_time: 1762939186139
+entry_point_name: ''
+experiment_id: '604682700621629885'
+lifecycle_stage: active
+run_id: 8d3614bb4cc7473eb8d4c1e322cdd4f9
+run_name: Ordinal_encoding_logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762939182116
+status: 3
+tags: []
+user_id: siddhant

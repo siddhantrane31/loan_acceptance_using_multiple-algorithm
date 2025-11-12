@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/ML_AI/loan/loan_acceptance_using_multiple-algorithm/mlruns/604682700621629885/90ea812268a54c919a60cc4d2e586a07/artifacts
+end_time: 1762939435377
+entry_point_name: ''
+experiment_id: '604682700621629885'
+lifecycle_stage: active
+run_id: 90ea812268a54c919a60cc4d2e586a07
+run_name: One_hot_encoding_logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762939431161
+status: 3
+tags: []
+user_id: siddhant

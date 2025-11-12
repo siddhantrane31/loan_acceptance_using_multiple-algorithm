@@ -1,0 +1,10 @@
+artifact_location: file:///C:/ML_AI/loan/loan_acceptance_using_multiple-algorithm/mlruns/604682700621629885/models/m-fe23709e61f944f1af822129d42a7959/artifacts
+creation_timestamp: 1762939182424
+experiment_id: '604682700621629885'
+last_updated_timestamp: 1762939186129
+model_id: m-fe23709e61f944f1af822129d42a7959
+model_type: null
+name: model
+source_run_id: 8d3614bb4cc7473eb8d4c1e322cdd4f9
+status: 2
+status_message: null

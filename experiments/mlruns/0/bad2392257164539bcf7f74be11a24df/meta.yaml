@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/ML_AI/loan/loan_acceptance_using_multiple-algorithm/experiments/mlruns/0/bad2392257164539bcf7f74be11a24df/artifacts
+end_time: 1762937825268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bad2392257164539bcf7f74be11a24df
+run_name: logreg_C=100_l1_liblinear
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762937814951
+status: 3
+tags: []
+user_id: siddhant

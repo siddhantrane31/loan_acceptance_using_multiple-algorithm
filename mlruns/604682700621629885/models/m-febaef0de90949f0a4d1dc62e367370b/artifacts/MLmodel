@@ -1,0 +1,22 @@
+artifact_path: file:///C:/ML_AI/loan/loan_acceptance_using_multiple-algorithm/mlruns/604682700621629885/models/m-febaef0de90949f0a4d1dc62e367370b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-febaef0de90949f0a4d1dc62e367370b
+model_size_bytes: 1500
+model_uuid: m-febaef0de90949f0a4d1dc62e367370b
+prompts: null
+run_id: 90ea812268a54c919a60cc4d2e586a07
+utc_time_created: '2025-11-12 09:23:51.656328'
