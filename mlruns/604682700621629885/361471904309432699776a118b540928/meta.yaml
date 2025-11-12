@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ML_AI/loan/loan_acceptance_using_multiple-algorithm/mlruns/604682700621629885/361471904309432699776a118b540928/artifacts
+deleted_time: 1762956317913
+end_time: 1762956237276
+entry_point_name: ''
+experiment_id: '604682700621629885'
+lifecycle_stage: deleted
+run_id: 361471904309432699776a118b540928
+run_name: NeuralNetwork_run_one_hot_encode
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762956212570
+status: 4
+tags: []
+user_id: siddhant

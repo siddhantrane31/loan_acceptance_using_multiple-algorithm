@@ -1,0 +1,6 @@
+artifact_location: file:///C:/ML_AI/loan/loan_acceptance_using_multiple-algorithm/mlruns/384139901110123418
+creation_time: 1762956324810
+experiment_id: '384139901110123418'
+last_update_time: 1762956324810
+lifecycle_stage: active
+name: loan_acceptance_logreg_Neural_Network

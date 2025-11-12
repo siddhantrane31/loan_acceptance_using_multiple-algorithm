@@ -1,0 +1,20 @@
+artifact_path: file:///C:/ML_AI/loan/loan_acceptance_using_multiple-algorithm/mlruns/604682700621629885/models/m-e798fe2432e644298cced226aaec5b53/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.11.3
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.12.0
+mlflow_version: 3.5.1
+model_id: m-e798fe2432e644298cced226aaec5b53
+model_size_bytes: 83970
+model_uuid: m-e798fe2432e644298cced226aaec5b53
+prompts: null
+run_id: 1856699c78b1420db3ff4acd7ebf3395
+utc_time_created: '2025-11-12 13:47:40.478419'

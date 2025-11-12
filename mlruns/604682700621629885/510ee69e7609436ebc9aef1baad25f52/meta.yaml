@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/ML_AI/loan/loan_acceptance_using_multiple-algorithm/mlruns/604682700621629885/510ee69e7609436ebc9aef1baad25f52/artifacts
+deleted_time: 1762956008541
 end_time: 1762945159930
 entry_point_name: ''
 experiment_id: '604682700621629885'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 510ee69e7609436ebc9aef1baad25f52
 run_name: NeuralNetwork_run
 source_name: ''
